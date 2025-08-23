@@ -1,0 +1,12 @@
+[submodule "FirstOwn"]
+	path = FirstOwn
+	url = https://github.com/Fromugh/ForStudy
+[submodule "ForFree"]
+	path = ForFree
+	url = https://github.com/Fromugh/ForStudy
+[submodule "H"]
+	path = H
+	url = https://github.com/Fromugh/ForStudy
+[submodule "Hws"]
+	path = Hws
+	url = https://github.com/Fromugh/ForStudy
